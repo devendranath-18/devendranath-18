@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=devendranath-18&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=devendranath-18&theme=radical&hide_border=false)<br/>
-![](https://komarev.com/ghpvc/?username=devendranath-18)
+![](https://komarev.com/ghpvc/?username=devendranath-18&style=for-the-badge)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
