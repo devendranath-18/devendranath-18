@@ -14,8 +14,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devendranath-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo![](https://github-contributor-stats.vercel.app/api?username=devendranath-18&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=devendranath-18&label=Profile%20Views&color=0e75b6&style=flat)
