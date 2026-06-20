@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm DEVENDRANATH KAPA</h1>
 # 💫 About Me:
 🎓 B.Tech Computer Science Engineering Graduate  <br><br>💻 Passionate Software Developer focused on building practical and innovative applications  <br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Agentic AI, and IoT  <br><br>🌱 Currently learning Node.js, Express.js, Databases, and Backend Development  <br><br>📊 Worked on projects involving Stock Market Prediction, IoT Systems, and Web Applications  <br><br>🚀 Building real-world projects to improve problem-solving and development skills  <br><br>🛠️ Tech Stack: Python | Java | JavaScript | React | Node.js | SQL | Git & GitHub  <br><br>📚 Always learning, experimenting, and growing in the field of technology  <br><br>🌟 "Learning by building is my way of becoming a better developer"
 
