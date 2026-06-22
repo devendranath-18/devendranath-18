@@ -1,5 +1,26 @@
-# 💫 About Me:
-🎓 B.Tech Computer Science Engineering Graduate<br><br>💻 Passionate Software Developer focused on building practical and innovative applications<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Agentic AI, and IoT<br><br>🌱 Currently learning Node.js, Express.js, Databases, and Backend Development<br><br>📊 Worked on projects involving Stock Market Prediction, IoT Systems, and Web Applications<br><br>🚀 Building real-world projects to improve problem-solving and development skills<br><br>🛠️ Tech Stack: Python | Java | JavaScript | React | Node.js | SQL | Git & GitHub<br><br>📚 Always learning, experimenting, and growing in the field of technology<br><br>🌟 "Learning by building is my way of becoming a better developer"
+<h1 align="center">Welcome to DEVENDRANATH KAPA's  Profile! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+ML+Enthusiast;Quantum+Researcher;Building+Impactful+Web+Applications;Growing+in+the+field+of+technology" />
+</p>
+
+🎓 B.Tech Computer Science Engineering Graduate
+
+💻 Passionate Software Developer focused on building practical and innovative applications
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Agentic AI, and IoT
+
+🌱 Currently learning Node.js, Express.js, Databases, and Backend Development
+
+📊 Worked on projects involving Stock Market Prediction, IoT Systems, and Web Applications
+
+🚀 Building real-world projects to improve problem-solving and development skills
+
+🛠️ Tech Stack: Python | Java | JavaScript | React | Node.js | SQL | Git & GitHub
+
+📚 Always learning, experimenting, and growing in the field of technology
+
+🌟 "Learning by building is my way of becoming a better developer"
 
 
 ## 🌐 Socials:
