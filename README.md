@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+ML+Enthusiast;Quantum+Researcher;Building+Impactful+Web+Applications;Growing+in+the+field+of+technology" />
 </p>
 
+# 💫 About Me:
+
 🎓 B.Tech Computer Science Engineering Graduate
 
 💻 Passionate Software Developer focused on building practical and innovative applications
